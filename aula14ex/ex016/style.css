@@ -1,0 +1,31 @@
+body {
+  background: #8e82d1;
+  font: normal 15pt Helvetica;
+}
+
+header {
+  color: #fff;
+  text-align: center;
+}
+
+section {
+  background: #fff;
+  border-radius: 10px;
+  padding: 15px 30px;
+  margin: 0 auto;
+  text-align: justify;
+  width: 500px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.6);
+}
+
+section button {
+  font-size: 15px;
+  padding: 5px 10px;
+}
+
+footer {
+  color: #fff;
+  text-align: center;
+  font-style: italic;
+  font-size: 10pt;
+}
